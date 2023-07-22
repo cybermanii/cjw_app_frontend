@@ -1,9 +1,7 @@
 <template lang="es">
     <div>
         <h1>{{ msg }}</h1>
-        <p>This is the login page</p>
-
-        
+        <p>This is the login page</p>        
     </div>
 </template>
 <script>
